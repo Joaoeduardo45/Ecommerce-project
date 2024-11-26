@@ -14,4 +14,4 @@ Este é um sistema básico de e-commerce desenvolvido como parte de um projeto. 
 ## Link do Repositório GitHub
 
 O repositório do projeto pode ser acessado através do seguinte link:  
-[https://github.com/seu-usuario/ecommerce](https://github.com/seu-usuario/ecommerce)
+[https://github.com/Joaoeduardo45/ecommerce](https://github.com/Joaoeduardo45/ecommerce)
