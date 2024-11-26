@@ -8,8 +8,8 @@ Este é um sistema básico de e-commerce desenvolvido como parte de um projeto. 
 
 - **Membro 1**: João Eduardo Almeida Macedo
   - Matrícula: 04144401
-- **Membro 1**: João Eduardo Almeida Macedo
-- Matrícula: 04144401
+- **Membro 1**: Luis Gabriel Cardoso Duarte
+- Matrícula: 04131370
   
 ## Link do Repositório GitHub
 
